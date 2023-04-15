@@ -1,0 +1,24 @@
+[
+  {
+    "_id":
+    {
+      "$oid":"6439bc8127f3a0d80006e8e6"
+    },
+    "name": "Andrey",
+    "balance":"0",
+    "about":"Меня зовут Андрей. Я из России. Я хочу перестать продавать ванны и стать крайне профессиональным фронтендером.",
+    "email":"derunov.andreyy@gmail.com",
+    "phone":"8999-999-99-99",
+    "image":"exampleImage",
+    "password":"pas1234",
+    "operations":[
+      {
+        "$oid":"6439bc8027f3a0d80006e8e0"
+      },
+      {
+        "$oid":"6439bc8027f3a0d80006e8e1"
+      }
+    ],
+    "categories":"default"
+  }
+]

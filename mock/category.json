@@ -1,0 +1,18 @@
+[
+  {
+    "_id":
+      {
+        "$oid":"6439bc8027f3a0d80006e8da"
+      },
+    "name":"products",
+    "icon":"some icon"
+  },
+  {
+    "_id":
+      {
+        "$oid":"6439bc8027f3a0d80006e8db"
+      },
+    "name":"salary",
+    "icon":"some icon2"
+  }
+]

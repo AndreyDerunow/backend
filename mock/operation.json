@@ -1,0 +1,36 @@
+[
+  {
+    "_id":
+      {
+        "$oid":"6439bc8027f3a0d80006e8e0"
+      },
+    "userId":
+      {
+        "$oid":"6439bc8127f3a0d80006e8e6"
+      },
+    "category":
+      {
+        "$oid":"6439bc8027f3a0d80006e8db"
+      },
+    "sum":"150",
+    "comment":"my salary for Jan",
+    "type": "top up"
+  },
+  {
+    "_id":
+      {
+        "$oid":"6439bc8027f3a0d80006e8e1"
+      },
+    "userId":
+      {
+        "$oid":"6439bc8127f3a0d80006e8e6"
+      },
+    "category":
+      {
+        "$oid":"6439bc8027f3a0d80006e8da"
+      },
+    "sum":"250",
+    "comment":"products for mom",
+    "type": "take off"
+  }
+]
