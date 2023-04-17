@@ -3,7 +3,6 @@ const mongoose = require('mongoose')
 const chalk = require('chalk')
 const config = require('config')
 const routes = require('./routes')
-
 const initData = require('./start/initData')
 
 

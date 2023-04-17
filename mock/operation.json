@@ -12,9 +12,9 @@
       {
         "$oid":"6439bc8027f3a0d80006e8db"
       },
-    "sum":"150",
-    "comment":"my salary for Jan",
-    "type": "top up"
+      "sum":"150",
+      "comment":"my salary for Jan",
+      "type": "top up"
   },
   {
     "_id":
