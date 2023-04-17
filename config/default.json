@@ -1,4 +1,6 @@
 {
   "PORT": 3000,
-  "mongoUri": "mongodb+srv://derunovandreyy:Fylhtq0079696@cluster0.yglxt27.mongodb.net/uchet?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://derunovandreyy:Fylhtq0079696@cluster0.yglxt27.mongodb.net/uchet?retryWrites=true&w=majority",
+  "SECRETaccess": "SUPER SECRET ANDREWWERDNA007",
+  "SECRETrefresh": "ULTRA SECRET OLESYAAYSELO007"
 }
