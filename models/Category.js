@@ -6,6 +6,12 @@ const schema = new Schema({
     },
     icon:{ type: String,
            default: 'some default icon'
+    },
+    default: {
+        type: Boolean,required: true
+    },
+    creator:{
+        type: Schema.Types.ObjectId, ref:'User'
     }
 },{
     timestamps: true

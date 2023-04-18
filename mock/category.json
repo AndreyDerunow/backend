@@ -5,7 +5,8 @@
         "$oid":"6439bc8027f3a0d80006e8da"
       },
     "name":"products",
-    "icon":"some icon"
+    "icon":"some icon",
+    "default": true
   },
   {
     "_id":
@@ -13,6 +14,7 @@
         "$oid":"6439bc8027f3a0d80006e8db"
       },
     "name":"salary",
-    "icon":"some icon2"
+    "icon":"some icon2",
+    "default": true
   }
 ]
